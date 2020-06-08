@@ -37,8 +37,8 @@ namespace Lab43
         }
         public double Speed
         {
-            get { return speed; }
-            set { speed = value; }
+            get { return speed;}
+            set { speed = value;}
         }
 
         private string Checkdate(string date1)
