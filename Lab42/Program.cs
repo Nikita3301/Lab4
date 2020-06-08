@@ -22,6 +22,8 @@ namespace ConsoleApp2
     {
         static void Main()
         {
+            Console.OutputEncoding = Encoding.Unicode;
+            Console.InputEncoding=Encoding.Unicode;
             List<First> product = new List<First>();
             List<Second> product2 = new List<Second>();
             List<First> result = new List<First>();
