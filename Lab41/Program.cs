@@ -105,7 +105,7 @@ namespace Lab41
             Console.WriteLine("Вiк: " + st.Age);
             Console.WriteLine("Номер телефону: " + st.Telephon);
             Console.WriteLine("Rating: " + st.Rating);
-            Console.WriteLine( r );
+            Console.WriteLine(r);
             Console.ReadKey();
         }
     }
